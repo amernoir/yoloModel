@@ -1,0 +1,12 @@
+names:
+- pistol
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: pistol-granada-vvcmm
+  url: https://universe.roboflow.com/amernuar/pistol-granada-vvcmm/dataset/1
+  version: 1
+  workspace: amernuar
+test: ../test/images
+train: ../train/images
+val: valid/images
